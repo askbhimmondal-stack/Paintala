@@ -33,7 +33,7 @@ A fast, privacy-friendly web app that extracts elegant color palettes from any i
 
 <img src="https://i.ibb.co/3y98VddX/image.png" alt="image" border="0">
 
-> Tip: Create a `/screenshots` folder in your repo and place images inside it.
+
 
 ---
 

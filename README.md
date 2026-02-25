@@ -27,19 +27,11 @@ A fast, privacy-friendly web app that extracts elegant color palettes from any i
 
 ### App Interface
 
-*(Add screenshot here)*
-
-```
-/screenshots/home.png
-```
+<img src="https://i.ibb.co/3y98VddX/image.png" alt="image" border="0">
 
 ### Extracted Palette Example
 
-*(Add screenshot here)*
-
-```
-/screenshots/result.png
-```
+<img src="https://i.ibb.co/3y98VddX/image.png" alt="image" border="0">
 
 > Tip: Create a `/screenshots` folder in your repo and place images inside it.
 

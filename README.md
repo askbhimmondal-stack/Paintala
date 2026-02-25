@@ -27,7 +27,7 @@ A fast, privacy-friendly web app that extracts elegant color palettes from any i
 
 ### App Interface
 
-<img src="https://i.ibb.co/3y98VddX/image.png" alt="image" border="0">
+<img src="https://i.ibb.co/pvBWxtzw/image.png" alt="image" border="0">
 
 ### Extracted Palette Example
 
